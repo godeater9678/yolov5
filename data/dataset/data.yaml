@@ -1,0 +1,13 @@
+train: data/dataset/train/images
+val: data/dataset/valid/images
+test: data/dataset/valid/images
+
+nc: 3
+names: ['beanrice', 'photato', 'rice']
+
+roboflow:
+  workspace: yolo-hgtcv
+  project: kr-food-01
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-hgtcv/kr-food-01/dataset/4

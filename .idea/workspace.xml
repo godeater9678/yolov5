@@ -6,43 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="feb590f6-2b44-4b29-a0d0-1cfb42df0048" name="Changes" comment="uplaod">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dataset/data.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset/data.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/F1_curve.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/PR_curve.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/P_curve.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/R_curve.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/confusion_matrix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/events.out.tfevents.1717144779.pyeonhyeonbeom-ui-MacBookPro.local.54601.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/hyp.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/labels.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/labels_correlogram.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/opt.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/results.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/train_batch0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/train_batch1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/train_batch2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/val_batch0_labels.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/val_batch0_pred.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/weights/best.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food/weights/last.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food2/events.out.tfevents.1717149064.pyeonhyeonbeom-ui-MacBookPro.local.57202.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food2/hyp.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food2/labels.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food2/labels_correlogram.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food2/opt.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food2/train_batch0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/events.out.tfevents.1717387325.pyeonhyeonbeom-ui-MacBookPro.local.64995.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/hyp.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/labels.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/labels_correlogram.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/opt.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/train_batch0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/train_batch1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/train_batch2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/weights/best.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/train/kr-food3/weights/last.pt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717475784608</updated>
       <workItem from="1717475785878" duration="1208000" />
-      <workItem from="1717508832844" duration="1178000" />
+      <workItem from="1717508832844" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="uplaod">
       <option name="closed" value="true" />
@@ -148,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717509267983</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="uplaod">
+      <option name="closed" value="true" />
+      <created>1717511302237</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717511302237</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
